@@ -1,4 +1,4 @@
-## Hi there 👋
+Ser Embedded Systems Engineer es la meta, ser N&E es el camino.
 
 <!--
 **jeramhil/jeramhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
